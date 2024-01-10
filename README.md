@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Maryoomah
+- 👋 Hi, I’m Maryam
 - 👀 I’m interested in front-end development
 - 🌱 I’m currently learning HTML, CSS, and Javascript 
 - 💞️ I’m looking to collaborate on projects
